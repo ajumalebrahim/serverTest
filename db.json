@@ -1,14 +1,20 @@
 {
   "userList": [
-    { "id": 1, "name": "Post 1", "icon": "https://www.kwsme.com/wp-content/uploads/2016/06/login-user-icon.png" },
-    { "id": 2, "name": "Post 2", "icon": "https://www.kwsme.com/wp-content/uploads/2016/06/login-user-icon.png" },
-    { "id": 3, "name": "Post 3", "icon": "https://www.kwsme.com/wp-content/uploads/2016/06/login-user-icon.png" }
-  ],
-  "comments": [
+    { "id": 1, "name": "Post 1", "icon": "https://www.kwsme.com/wp-content/uploads/2016/06/login-user-icon.png",
+     "album": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ] },
+    { "id": 2, "name": "Post 2", "icon": "https://www.kwsme.com/wp-content/uploads/2016/06/login-user-icon.png",
+     "album": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ] },
+    { "id": 3, "name": "Post 3", "icon": "https://www.kwsme.com/wp-content/uploads/2016/06/login-user-icon.png",
+     "album": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ] }
+  ]
 }
+
