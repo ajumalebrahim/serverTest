@@ -1,8 +1,8 @@
 {
   "userList": [
-    { "id": 1, "Name": "Post 1", "icon": "" },
-    { "id": 2, "Name": "Post 2", "icon": "" },
-    { "id": 3, "Name": "Post 3", "icon": "" }
+    { "id": 1, "name": "Post 1", "icon": "" },
+    { "id": 2, "name": "Post 2", "icon": "" },
+    { "id": 3, "name": "Post 3", "icon": "" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
