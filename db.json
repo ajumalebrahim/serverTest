@@ -1,6 +1,6 @@
 {
   "userList": [
-    { "id": 1, "name": "Post 1", "icon": "https://www.kwsme.com/wp-content/uploads/2016/06/login-user-icon.png",
+    { "id": 1, "name": "Post 1", "icon": "",
      "album": [
     { "id": 1, "url": "https://www.kwsme.com/wp-content/uploads/2016/06/login-user-icon.png" },
     { "id": 2, "url": "https://www.kwsme.com/wp-content/uploads/2016/06/login-user-icon.png" }
